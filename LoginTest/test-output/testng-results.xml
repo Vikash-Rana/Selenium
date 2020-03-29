@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-29T16:45:06Z" name="Default suite" finished-at="2020-03-29T16:46:51Z" duration-ms="105687">
+    <groups>
+    </groups>
+    <test started-at="2020-03-29T16:45:06Z" name="Default test" finished-at="2020-03-29T16:46:51Z" duration-ms="105687">
+      <class name="com.facebook.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:06Z" name="setUp" finished-at="2020-03-29T22:15:18Z" duration-ms="11830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="titleCheckTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:18Z" name="titleCheckTest" finished-at="2020-03-29T22:15:18Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:18Z" name="tearDown" finished-at="2020-03-29T22:15:18Z" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:18Z" name="setUp" finished-at="2020-03-29T22:15:30Z" duration-ms="11448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userLoginTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:30Z" name="userLoginTest" finished-at="2020-03-29T22:15:43Z" duration-ms="12991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:43Z" name="tearDown" finished-at="2020-03-29T22:15:44Z" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:44Z" name="setUp" finished-at="2020-03-29T22:15:55Z" duration-ms="11006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidUserLoginTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:55Z" name="invalidUserLoginTest" finished-at="2020-03-29T22:15:57Z" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:57Z" name="tearDown" finished-at="2020-03-29T22:15:58Z" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:15:58Z" name="setUp" finished-at="2020-03-29T22:16:09Z" duration-ms="11041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userRegisterTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:09Z" name="userRegisterTest" finished-at="2020-03-29T22:16:17Z" duration-ms="7717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegisterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:17Z" name="tearDown" finished-at="2020-03-29T22:16:17Z" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:17Z" name="setUp" finished-at="2020-03-29T22:16:29Z" duration-ms="11534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="forgetPasswordTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:29Z" name="forgetPasswordTest" finished-at="2020-03-29T22:16:33Z" duration-ms="4327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:33Z" name="tearDown" finished-at="2020-03-29T22:16:34Z" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:34Z" name="setUp" finished-at="2020-03-29T22:16:46Z" duration-ms="11596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="footerLinkTest()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:46Z" name="footerLinkTest" finished-at="2020-03-29T22:16:51Z" duration-ms="5025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.tests.LoginPageTest@40e6dfe1]" started-at="2020-03-29T22:16:51Z" name="tearDown" finished-at="2020-03-29T22:16:51Z" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
